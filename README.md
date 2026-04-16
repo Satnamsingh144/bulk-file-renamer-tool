@@ -72,7 +72,7 @@ Preview mode allows you to see changes before applying them, preventing mistakes
 
 ## 👨‍💻 Author
 
-- GitHub: https://github.com/Satnamsingh144
+- Satnamsingh
 
 ---
 
