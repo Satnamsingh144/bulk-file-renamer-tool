@@ -59,4 +59,12 @@ IMG_photo2_edited_2.jpg
 
 ## 👨‍💻 Author
 
+<<<<<<< HEAD
 Satnam Singh
+=======
+- Satnamsingh
+
+---
+
+⭐ If you like this project, give it a star!
+>>>>>>> 773c13304eb3781f6fc23747ec14ca0b8dae2b52
