@@ -1,79 +1,62 @@
-# 🚀 Bulk File Renamer Tool
+# Bulk File Renamer Tool (Pro)
 
-A powerful Python CLI tool to rename files in bulk with safety and flexibility.
-
----
-
-## ✨ Features
-
-- 🔹 Add custom **prefix** and **suffix**
-- 🔹 Automatic numbering (_1, _2, _3...)
-- 🔹 📂 Rename only specific file types (e.g. .jpg, .png)
-- 🔹 🔍 Preview mode (safe — no changes made)
-- 🔹 ⚠️ Prevents overwriting existing files
-- 🔹 📑 Sorted file renaming
+A powerful Python automation tool to rename files in bulk with advanced features like preview mode and extension filtering.
 
 ---
 
-## 🛠️ Tech Used
+## 🚀 Features
 
-- Python 3
-- Built-in `os` module
-
----
-
-## 📸 Example
-
-### Input Files:
-photo.jpg
-image.png
-file.txt
-
-### Output (with prefix="new_"):
-new_photo_1.jpg
-new_image_2.png
-new_file_3.txt
+- Rename files in bulk
+- Add prefix and suffix
+- Automatic numbering system
+- Filter by file extensions (.jpg, .pdf, etc.)
+- Preview mode (safe check before renaming)
+- Skips duplicate file names
 
 ---
 
-## ⚡ How to Use
+## 🛠️ Technologies Used
+
+- Python
+- os module
+
+---
+
+## ▶️ How to Run
 
 1. Clone the repository:
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
-2. Navigate into the folder:
+2. Navigate to folder:
+   cd YOUR_REPO_NAME
 
 3. Run the script:
+   python main.py
 
 ---
 
-## 📌 Options
+## 📌 Example
 
-- Enter folder path
-- Add prefix/suffix (optional)
-- Choose file extensions (optional)
-- Enable preview mode for safety
+Input:
+Prefix: IMG_
+Suffix: _edited
+Extension: .jpg
 
----
-
-## 🔐 Safety Feature
-
-Preview mode allows you to see changes before applying them, preventing mistakes.
+Output:
+IMG_photo1_edited_1.jpg  
+IMG_photo2_edited_2.jpg  
 
 ---
 
-## 💡 Future Improvements
+## 🔮 Future Improvements
 
-- GUI version (Tkinter)
-- Drag & Drop support
-- Undo feature
-- Convert to `.exe`
+- GUI interface
+- Undo rename feature
+- File size filtering
+- Date-based renaming
 
 ---
 
 ## 👨‍💻 Author
 
-- GitHub: https://github.com/Satnamsingh144
-
----
-
-⭐ If you like this project, give it a star!
+Satnam Singh
